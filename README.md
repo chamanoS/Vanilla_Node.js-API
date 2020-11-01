@@ -21,6 +21,6 @@ yarn run dev
 npm start
 yarn start
 ```
-#Use route.rest(withing visual studio) to test API
+Use route.rest(withing visual studio) to test API
 
 Feel free to add to this and create a PR.
